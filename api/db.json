@@ -1,0 +1,44 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "class": "tops",
+            "name": "polo",
+            "color": "red",
+            "price": "14.90",
+            "img" : "data:image/jpeg;base64,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"
+        },
+        {
+            "id": 2,
+            "class": "pants",
+            "name": "baggy jeans",
+            "color": "sky blue",
+            "price": "39.90",
+            "img" : "https://www.levi.in/on/demandware.static/-/Sites-LeviMaster-Catalog/en_IN/dwb9481aff/images/hi-res/A32250006/A32250006_01_Front.jpg"
+        },
+        {
+            "id": 3,
+            "class": "tops",
+            "name": "sweater",
+            "color": "beige",
+            "price": "19.90",
+            "img" : "https://www.sweatershop.com/media/catalog/product/cache/5095eed41973757202d339d48b04f5eb/p/o/polo_neck_aran_charcoal_5.jpg"
+        },
+        {
+            "id": 4,
+            "class": "shoes",
+            "name": "sneakers",
+            "color": "black",
+            "price": "59.90",
+            "img" : "https://bazarstore.az/cdn/shop/products/30075829.jpg?v=1693563268"
+        },
+        {
+            "id": 5,
+            "class": "pants",
+            "name": "cargo pants",
+            "color": "green",
+            "price": "34.90",
+            "img" : "https://m.media-amazon.com/images/I/71e6YRHwLOL._AC_UY350_.jpg"
+        }
+    ]
+}

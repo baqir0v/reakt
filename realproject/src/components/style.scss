@@ -1,0 +1,27 @@
+.imgs {
+    width: 200px;
+    height: 200px;
+}
+
+.uls {
+    list-style: none;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    img {
+        border: 1px solid black;
+        
+    }
+
+}
+
+.card {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
